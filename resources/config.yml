@@ -1,0 +1,59 @@
+#GroupJoinMessages Configuration
+
+#Are join and quit messages enabled at all? Default is: true
+isEnabled: true
+
+#Set the messages to be sent to the server when a player from a group logs in. Color codes are supported.
+#Use the default value if you don't want a message for that group. The default value is: none
+#Use %player to get the players name who logged in
+#The permissions for each group are gjm.group1, gjm.group2, etc. They correspond to the groups in this config.
+###EXAMPLE for a group with the permission gjm.group1###
+### group1:
+###     join: '&5%player, a member of the purple group has joined the game.'
+###     quit: '&5%player, a member of the purple group has left the game.'
+messages:
+    group1:
+        join: 'none'
+        quit: 'none'
+    group2:
+        join: 'none'
+        quit: 'none'
+    group3:
+        join: 'none'
+        quit: 'none'
+    group4:
+        join: 'none'
+        quit: 'none'
+    group5:
+        join: 'none'
+        quit: 'none'
+    group6:
+        join: 'none'
+        quit: 'none'
+    group7:
+        join: 'none'
+        quit: 'none'
+    group8:
+        join: 'none'
+        quit: 'none'
+    group9:
+        join: 'none'
+        quit: 'none'
+    group10:
+        join: 'none'
+        quit: 'none'
+    group11:
+        join: 'none'
+        quit: 'none'
+    group12:
+        join: 'none'
+        quit: 'none'
+    group13:
+        join: 'none'
+        quit: 'none'
+    group14:
+        join: 'none'
+        quit: 'none'
+    group15:
+        join: 'none'
+        quit: 'none'

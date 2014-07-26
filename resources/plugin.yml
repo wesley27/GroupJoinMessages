@@ -1,0 +1,36 @@
+name: GroupJoinMessages
+main: com.wesley27.groupjoinmessages.GroupJoinMessages
+version: 1.0
+author: wesley27
+description: Send the server messages when a player from certain groups login
+permissions:
+    gjm.group1:
+        description: adds the join/quit message for group 1 in the config
+    gjm.group2:
+        description: adds the join/quit message for group 2 in the config
+    gjm.group3:
+        description: adds the join/quit message for group 3 in the config
+    gjm.group4:
+        description: adds the join/quit message for group 4 in the config
+    gjm.group5:
+        description: adds the join/quit message for group 5 in the config
+    gjm.group6:
+        description: adds the join/quit message for group 6 in the config
+    gjm.group7:
+        description: adds the join/quit message for group 7 in the config
+    gjm.group8:
+        description: adds the join/quit message for group 8 in the config
+    gjm.group9:
+        description: adds the join/quit message for group 9 in the config
+    gjm.group10:
+        description: adds the join/quit message for group 10 in the config
+    gjm.group11:
+        description: adds the join/quit message for group 11 in the config
+    gjm.group12:
+        description: adds the join/quit message for group 12 in the config
+    gjm.group13:
+        description: adds the join/quit message for group 13 in the config
+    gjm.group14:
+        description: adds the join/quit message for group 14 in the config
+    gjm.group15:
+        description: adds the join/quit message for group 15 in the config
