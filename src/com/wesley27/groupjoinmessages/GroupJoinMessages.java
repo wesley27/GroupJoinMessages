@@ -838,7 +838,6 @@ public class GroupJoinMessages extends JavaPlugin implements Listener
 					}
 				}
 			}
-			}
 			else
 			{
 				if(getConfig().getBoolean("allWorlds"))
