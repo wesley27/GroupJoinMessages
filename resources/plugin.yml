@@ -1,6 +1,6 @@
 name: GroupJoinMessages
 main: com.wesley27.groupjoinmessages.GroupJoinMessages
-version: 1.2
+version: 1.2.1
 author: wesley27
 description: Send the server messages when a player from certain groups login
 permissions:

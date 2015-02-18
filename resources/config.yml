@@ -3,8 +3,14 @@
 #Are join and quit messages enabled at all? Default is: true
 isEnabled: true
 
+#Do you want only the group members of the person logging in to see the message?
+#false is default and broadcasts to everyone. if true, only those group members will see.
+groupsOnly: false
+
 #Do you want your join/leave messages to show in all worlds? Default is: true
 allWorlds: true
+  - world1
+  - world2
 
 #If you only want to show the messages in certain worlds, set the above to false and list
 #your world names that you want the message to show in
