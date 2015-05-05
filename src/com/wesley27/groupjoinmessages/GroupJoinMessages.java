@@ -930,77 +930,77 @@ public class GroupJoinMessages extends JavaPlugin implements Listener
 							{
 								if(p.hasPermission("gjm.group1") && (!getConfig().getString("messages.group1.join").equalsIgnoreCase("none")))
 								{
-									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group1.join"));
+									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group1.quit"));
 									player.sendMessage(quitmsg.replace("%player", pname));
 								}
 								if(p.hasPermission("gjm.group2") && (!getConfig().getString("messages.group2.join").equalsIgnoreCase("none")))
 								{
-									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group2.join"));
+									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group2.quit"));
 									player.sendMessage(quitmsg.replace("%player", pname));
 								}
 								if(p.hasPermission("gjm.group3") && (!getConfig().getString("messages.group3.join").equalsIgnoreCase("none")))
 								{
-									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group3.join"));
+									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group3.quit"));
 									player.sendMessage(quitmsg.replace("%player", pname));
 								}
 								if(p.hasPermission("gjm.group4") && (!getConfig().getString("messages.group4.join").equalsIgnoreCase("none")))
 								{
-									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group4.join"));
+									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group4.quit"));
 									player.sendMessage(quitmsg.replace("%player", pname));
 								}
 								if(p.hasPermission("gjm.group5") && (!getConfig().getString("messages.group5.join").equalsIgnoreCase("none")))
 								{
-									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group5.join"));
+									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group5.quit"));
 									player.sendMessage(quitmsg.replace("%player", pname));
 								}
 								if(p.hasPermission("gjm.group6") && (!getConfig().getString("messages.group6.join").equalsIgnoreCase("none")))
 								{
-									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group6.join"));
+									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group6.quit"));
 									player.sendMessage(quitmsg.replace("%player", pname));
 								}
 								if(p.hasPermission("gjm.group7") && (!getConfig().getString("messages.group7.join").equalsIgnoreCase("none")))
 								{
-									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group7.join"));
+									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group7.quit"));
 									player.sendMessage(quitmsg.replace("%player", pname));
 								}
 								if(p.hasPermission("gjm.group8") && (!getConfig().getString("messages.group8.join").equalsIgnoreCase("none")))
 								{
-									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group8.join"));
+									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group8.quit"));
 									player.sendMessage(quitmsg.replace("%player", pname));
 								}
 								if(p.hasPermission("gjm.group9") && (!getConfig().getString("messages.group9.join").equalsIgnoreCase("none")))
 								{
-									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group9.join"));
+									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group9.quit"));
 									player.sendMessage(quitmsg.replace("%player", pname));
 								}
 								if(p.hasPermission("gjm.group10") && (!getConfig().getString("messages.group10.join").equalsIgnoreCase("none")))
 								{
-									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group10.join"));
+									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group10.quit"));
 									player.sendMessage(quitmsg.replace("%player", pname));
 								}
 								if(p.hasPermission("gjm.group11") && (!getConfig().getString("messages.group12.join").equalsIgnoreCase("none")))
 								{
-									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group12.join"));
+									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group12.quit"));
 									player.sendMessage(quitmsg.replace("%player", pname));
 								}
 								if(p.hasPermission("gjm.group12") && (!getConfig().getString("messages.group12.join").equalsIgnoreCase("none")))
 								{
-									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group12.join"));
+									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group12.quit"));
 									player.sendMessage(quitmsg.replace("%player", pname));
 								}
 								if(p.hasPermission("gjm.group13") && (!getConfig().getString("messages.group13.join").equalsIgnoreCase("none")))
 								{
-									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group13.join"));
+									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group13.quit"));
 									player.sendMessage(quitmsg.replace("%player", pname));
 								}
 								if(p.hasPermission("gjm.group14") && (!getConfig().getString("messages.group14.join").equalsIgnoreCase("none")))
 								{
-									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group14.join"));
+									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group14.quit"));
 									player.sendMessage(quitmsg.replace("%player", pname));
 								}
 								if(p.hasPermission("gjm.group15") && (!getConfig().getString("messages.group15.join").equalsIgnoreCase("none")))
 								{
-									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group15.join"));
+									String quitmsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("messages.group15.quit"));
 									player.sendMessage(quitmsg.replace("%player", pname));
 								}
 							}

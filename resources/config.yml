@@ -9,12 +9,12 @@ groupsOnly: false
 
 #Do you want your join/leave messages to show in all worlds? Default is: true
 allWorlds: true
-  - world1
-  - world2
 
 #If you only want to show the messages in certain worlds, set the above to false and list
 #your world names that you want the message to show in
 onlyWorlds:
+  - world1
+  - world2
 
 #Set the messages to be sent to the server when a player from a group logs in. Color codes are supported.
 #Use the default value if you don't want a message for that group. The default value is: none
